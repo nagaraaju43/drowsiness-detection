@@ -19,12 +19,13 @@ The program contains 3 files, which are
   ``bzip2 -dk shape_predictor_68_face_landmarks.dat.bz2``
 
 
-    numpy==1.15.2
-	dlib==19.16.0
-	pygame==1.9.4
-	imutils==0.5.1
-	opencv_python==3.4.3.18
-	scipy==1.1.0
+    numpy==1.23.5
+	dlib==19.24.0
+	pygame==2.1.3
+	imutils==0.5.4
+	opencv-python==4.9.0.80
+	scipy==1.10.1
+
 Use `pip install -r requirements.txt`to install the given requirements.
 
 ## Usage
